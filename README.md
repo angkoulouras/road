@@ -1,6 +1,6 @@
 # The R.O.A.D. to precision medicine
 
-This repository provides the code for the experiments of "The R.O.A.D. to precision medicine" in Python and Julia of the following paper: [The R.O.A.D. to precision medicine](https://arxiv.org/abs/2311.01681).
+This repository provides the code for the experiments in Python and Julia of the following paper: [The R.O.A.D. to precision medicine](https://arxiv.org/abs/2311.01681).
 
 If you use this in your work, please cite this paper as follows:
     
